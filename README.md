@@ -36,12 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Charanjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charanjot9037&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charanjot9037&theme=tokyonight)  
-
----
 
 ## 📫 Connect With Me  
 - GitHub: [github.com/Charanjot9037](https://github.com/Charanjot9037)  
