@@ -33,14 +33,14 @@
 ### 🔹 [Portfolio Website](https://github.com/Charanjot9037/portfolio)  
 - Personal portfolio showcasing skills, projects, and achievements.  
 - Tech: Next.js, Tailwind CSS  
-
+- [https://portfoliocjs.netlify.app/]  
 ---
 
 
 ## 📫 Connect With Me  
 - GitHub: [github.com/Charanjot9037](https://github.com/Charanjot9037)  
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Email: [Your Email Here]  
+- LinkedIn: [https://www.linkedin.com/in/charanjot-singh-240341287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- Email: [charanjot2005@gmail.com]  
 
 ---
 
