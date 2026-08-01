@@ -22,7 +22,7 @@
 
 ## 📂 Projects  
 
-### 🔹 [E-commerce Clothing Website (Next.js + MongoDB)]
+### 🔹 [E-commerce Clothing Website (Next.js + MongoDB)](https://github.com/Charanjot9037/clothingEcommerce)
 - Built a full-stack clothing e-commerce app with Stripe payment integration, webhook-driven order processing, and   dynamic discount calculation.
 - Tech: Next.js, MongoDB, Redux, Tailwind CSS, Stripe
 
